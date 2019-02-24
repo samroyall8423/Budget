@@ -14,20 +14,22 @@
   }
   h5 {
     font-weight: bold;
+    font-family: 'Alegreya Sans', sans-serif;
 
   }
-  h5:hover {
-    color:red;
-    font-size: 20px;
+
+  #button {
+    text-align: center;
   }
-  
   body {
     background-color: rgb(237, 236, 221);
     color: var(--mainDark);
     margin: 8%;
     border: 2px solid  #0e455b;
-   
   }
+
+
+
   .budget-feedback,
   .expense-feedback {
     display: none;
